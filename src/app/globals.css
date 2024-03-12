@@ -70,6 +70,7 @@
   * {
     @apply border-border;
   }
+  /* Marcação de cores da Maternidade - Página Base */
   body {
     @apply bg-background text-foreground;
   }

@@ -3,10 +3,10 @@
 import { Header } from '@/components/header'
 import { Footer } from '@/components/footer'
 
+
 const Page = () => {
   return (
-
-    <div>
+    <div className=' container mx-auto h-screen text-xs bg-gradient-to-b from-pink-300 to-pink-200 sm:text-lg'>
       <Header />
       <div>
         <label>

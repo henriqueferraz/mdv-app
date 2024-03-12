@@ -1,8 +1,8 @@
 export const Header = () => {
     return (
         <div>
-            <div className='flex'>
-                <div className='flex_img'>
+            <div>
+                <div>
                     <img src='/images/logo_MDV-novo_bann.png' alt=''></img>
                 </div>
                 <div>

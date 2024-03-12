@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+    background-image: linear-gradient(to bottom, #f178ac, rgb(233, 191, 229));
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* altura do rodapé */
+  }
